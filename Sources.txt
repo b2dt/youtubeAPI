@@ -1,0 +1,3 @@
+https://www.youtube.com/yt/dev/api-resources.html
+https://www.codecademy.com/courses/javascript-intermediate-en-757J2/0/2?curriculum_id=50ecb8d45f787a6332000042
+https://developers.google.com/youtube/v3/code_samples/javascript
